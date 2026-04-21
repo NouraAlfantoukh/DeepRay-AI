@@ -9,10 +9,10 @@ import base64
 from pymongo import MongoClient
 
 app = Flask(__name__)
-app.secret_key = "your_secret_key"
+
 
 model = load_model(r'final_balanced_model.h5')
-client = MongoClient("mongodb+srv://neuhessah:cV3oyvksmEw3DcL3@cluster0.1tzbn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = MongoClient("******")
 db = client["DeepRayWeb"]
 users_collection = db["users"]
 patients_collection = db["patients"]
