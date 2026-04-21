@@ -54,4 +54,4 @@ README.md
 
 ## My Contribution
 
-Primary contributor to the medical report generation module, including data preprocessing, feature engineering, NLP pipeline experimentation, model training workflows, and evaluation. Also contributed to requirements analysis and overall project planning.
+Primary contributor to the AI models , medical report generation module, including data preprocessing, feature engineering, NLP pipeline experimentation, model training workflows, and evaluation. Also contributed to requirements analysis and overall project planning.
